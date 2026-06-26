@@ -35,19 +35,15 @@ python expense_tracker.py
 
 ### Add & Search Expense
 
-![Add & Search Expense](screenshots/add_search_expense.png)
+![Add & Search Expense](screenshots/add_search_expense.jpeg)
 
 ### Expense Details
 
-![Expense Details](screenshots/expense_details.png)
+![Expense Details](screenshots/expense_details.jpeg)
 
-### View Expense
+### View Expense And Exit
 
-![View Expense](screenshots/view_expense.png)
-
-### Exit
-
-![Exit](screenshots/exit.png)
+![View Expense](screenshots/view_expense_and_exit.jpeg)
 
 
 ## Author
